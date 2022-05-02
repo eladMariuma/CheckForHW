@@ -3,7 +3,7 @@ import gym
 import numpy as np
 import time
 import matplotlib.pyplot as plt
-from IPython.display import clear_output # Used to clear the ouput of a Jupyter cell.
+from IPython.display import clear_output  # Used to clear the output of a Jupyter cell.
 
 def randomAgent(start_state):
     env.s = start_state  # set environment to illustration's state
