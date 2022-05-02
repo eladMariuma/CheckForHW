@@ -69,7 +69,7 @@ if __name__ == '__main__':
     #randomAgent
     frames, reward = randomAgent(328)
     print("Reward incurred: {}".format(reward))
-
+    a = 1
 
 # use the algorithm learnt in class
 # should return (frames,reward)
